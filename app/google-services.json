@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13974775681",
+    "firebase_url": "https://anda-2657c-default-rtdb.firebaseio.com",
+    "project_id": "anda-2657c",
+    "storage_bucket": "anda-2657c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13974775681:android:832cf31848399e983aaa80",
+        "android_client_info": {
+          "package_name": "com.example.anda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13974775681-78tidud65oc8mg4119m4pgl2mnik7fq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anda",
+            "certificate_hash": "30f8e8896affb0d9b2f4cdedc388dfe5f2936b02"
+          }
+        },
+        {
+          "client_id": "13974775681-1pm4m1na66e0cjkq7cvn3gh5ft6v33er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQxNsdLRvyuh-OWkGXmSWixXLEwRqGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13974775681-1pm4m1na66e0cjkq7cvn3gh5ft6v33er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

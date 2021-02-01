@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anda</string>
+    <string name="ingreso_con_el_telefono">Ingreso con el telefono</string>
+    <string name="ingresar_con_google">Ingresar con Google</string>
+</resources>
