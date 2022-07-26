@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/action_bar_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_detail_request.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_map_client.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_map_driver.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_select_option_auth.xml" value="0.1" />
+        <entry key="..\:/Users/Ivan/Desktop/AndaTest/app/src/main/res/layout/activity_select_option_auth2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndaTest</string>
+    <string name="conductor">Conductor</string>
+    <string name="cliente">Cliente</string>
+    <string name="lema">Tu Seguridad y transparencia</string>
+    <string name="tu_posicion">Tu posición</string>
+    <string name="tus_datos">TUS DATOS</string>
+    <string name="select_option">Seleccionar opción</string>
+</resources>
